@@ -1,0 +1,12 @@
+.venv
+.vscode
+
+DeepLense/General Test/.neptune
+DeepLense/General Test/model_saves
+DeepLense/General Test/dataset
+DeepLense/Test2/lens_finding
+DeepLense/Test2/model_saves
+DeepLense/Test2/.neptune
+DeepLense/Test2/.neptune
+DeepLense/Test8/lenses
+DeepLense/Test8/lenses.tgz
