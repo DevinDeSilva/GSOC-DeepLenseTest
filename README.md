@@ -4,8 +4,8 @@
 
 ### General Test
 
-* Read The ReadMe in the [General Test markdown]( DeepLense/GeneralTest/general_test.md)
+* Read The ReadMe in the [General Test markdown]( DeepLense/GeneralTest/README.md)
 
 ### Test 2
 
-* Read The ReadMe in the [Test 2 markdown]( DeepLense/Test2/test_2.md)
+* Read The ReadMe in the [Test 2 markdown]( DeepLense/Test2/README.md)
