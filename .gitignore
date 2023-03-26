@@ -1,9 +1,9 @@
 .venv
 .vscode
 
-DeepLense/General Test/.neptune
-DeepLense/General Test/model_saves
-DeepLense/General Test/dataset
+DeepLense/GeneralTest/.neptune
+DeepLense/GeneralTest/model_saves
+DeepLense/GeneralTest/dataset
 DeepLense/Test2/lens_finding
 DeepLense/Test2/model_saves
 DeepLense/Test2/.neptune
